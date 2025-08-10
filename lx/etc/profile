@@ -86,3 +86,6 @@ export JAVA_HOME=/usr/local/bit2025/java
 export CLASSPATH=.:$JAVA_HOME/lib/*
 export PATH=$PATH:$JAVA_HOME/bin
 
+# git
+export PATH=$PATH:/usr/local/bit2025/git/bin
+
