@@ -12,7 +12,7 @@
    </profiles>
    <servers>
       <server>
-         <id>tomcat-poscodx</id>
+         <id>tomcat-bit2025</id>
          <username>admin</username>
          <password>manager</password>
       </server>
